@@ -5,3 +5,5 @@ Dashboard public link- https://public.tableau.com/views/RADISSONHOSPITALITYANALY
 
 
 Story public link-https://public.tableau.com/views/RADISSONANALYSISSTORY/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+video Demonstration link-https://youtu.be/UQR_o_h0alY
